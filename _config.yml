@@ -19,7 +19,7 @@ remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme for GitHub Pages
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url: https://nino-mau.github.io # the base hostname & protocol for your site
-baseurl: /jekyll # does not include hostname
+baseurl: /jekyll-demo1 # does not include hostname
 title: Google Street View Widget
 description: > # this means to ignore newlines until "Language & timezone"
   Google Street View Widget for ArcGIS Experience Builder
